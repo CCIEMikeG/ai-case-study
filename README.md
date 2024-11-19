@@ -37,7 +37,7 @@ These figures highlight the growing market of UAV companies like Shield AI that 
 
 * Operational Field: Shield AI specializes in defense and autonomous robotic platforms.
 
-* 5/10 Year Trends and Innovation: AI has significantly enhanced autonomous navigation, target recognition, and "on-platform" decision-making in unmanned technology. Swarm technology has also become a technological capability by providing multiple unmanned platforms to operate collaboratively during missions to extend communication, vision and recognition, and platform resilience. There has been a significant shift in modern warfare using unmanned platforms, such that a new business vertical has been developed providing counter UAV/UAS capabilities. As with any technology, especially one developed for operational military missions and counter missions, advancements in UAV stealth and enhanced extended endurance (flight time) expand the combatant commander's operational "bubble" with UAV/UAS flying farther, weighing less, costing less, using Commercial/Government Off the Shelf (COTS/GOTS), and the integration of line-of-sight communication as well as cellular integration such as 5G.
+* 5/10 Year Trends and Innovation: AI has significantly enhanced autonomous navigation, target recognition, and "on-platform" decision-making in unmanned technology. Swarm technology has also become a technological capability by providing multiple unmanned platforms to operate collaboratively during missions to extend communication, vision and recognition, and platform resilience. > "Military drones are transforming modern warfare by providing surveillance, reconnaissance, and combat capabilities with enhanced precision." There has been a significant shift in modern warfare using unmanned platforms, such that a new business vertical has been developed providing counter UAV/UAS capabilities. As with any technology, especially one developed for operational military missions and counter missions, advancements in UAV stealth and enhanced extended endurance (flight time) expand the combatant commander's operational "bubble" with UAV/UAS flying farther, weighing less, costing less, using Commercial/Government Off the Shelf (COTS/GOTS), and the integration of line-of-sight communication as well as cellular integration such as 5G.
 
 * Competitors:
 	- Anduril Industries: Specializes in autonomous systems and AI-driven defense technologies.
@@ -90,11 +90,11 @@ References
 
 CB Insights. "Shield AI." CB Insights, https://www.cbinsights.com/company/shield-ai.
 
-SimilarWeb. "Shield AI Competitors." SimilarWeb, https://www.similarweb.com/website/shield.ai/competitors/.
+CB Insights. "Shield AI Alternatives & Competitors." CB Insights, https://www.cbinsights.com/company/shield-ai/alternatives-competitors. Accessed 18 Nov. 2024.
 
-TechCrunch. "Anduril Industries Raises $1.48B." TechCrunch, 2 Dec. 2022, https://techcrunch.com/2022/12/02/anduril-industries-raises-1-48b/.
+Washington Technology. "Anduril fetches $1.48B in latest funding round." Ross Wilkers, 2 Dec. 2022, https://www.washingtontechnology.com/companies/2022/12/anduril-fetches-148b-latest-funding-round/380409/
 
-DroneDJ. "Skydio Raises $230 Million in Series E Funding." DroneDJ, 9 Feb. 2023, https://dronedj.com/2023/02/09/skydio-raises-230-million-series-e/.
+DroneDJ. "Skydio Achieves $2 Billion Valuation After $230 Million Series E Funding." DroneDJ, 27 Feb. 2023, https://dronedj.com/2023/02/27/skydio-drones-2-billion-valuation/. Accessed 18 Nov. 2024.
 
 DroneDJ. "Skydio Wins US Army’s $100 Million Small Drone Recon Contract." DroneDJ, 9 Feb. 2022, https://dronedj.com/2022/02/09/skydio-wins-us-armys-100-million-small-drone-recon-contract/.
 
