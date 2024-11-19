@@ -1,6 +1,6 @@
 # AI-Powered Drone Technology for National Defense: A Case Study on Shield AI
 
-##Overview and Origin
+## Overview and Origin
 
 * Name of company: Shield AI
 
