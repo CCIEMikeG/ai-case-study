@@ -37,7 +37,11 @@ These figures highlight the growing market of UAV companies like Shield AI that 
 
 * Operational Field: Shield AI specializes in defense and autonomous robotic platforms.
 
-* 5/10 Year Trends and Innovation: AI has significantly enhanced autonomous navigation, target recognition, and "on-platform" decision-making in unmanned technology. Swarm technology has also become a technological capability by providing multiple unmanned platforms to operate collaboratively during missions to extend communication, vision and recognition, and platform resilience. > "Military drones are transforming modern warfare by providing surveillance, reconnaissance, and combat capabilities with enhanced precision." There has been a significant shift in modern warfare using unmanned platforms, such that a new business vertical has been developed providing counter UAV/UAS capabilities. As with any technology, especially one developed for operational military missions and counter missions, advancements in UAV stealth and enhanced extended endurance (flight time) expand the combatant commander's operational "bubble" with UAV/UAS flying farther, weighing less, costing less, using Commercial/Government Off the Shelf (COTS/GOTS), and the integration of line-of-sight communication as well as cellular integration such as 5G.
+* 5/10 Year Trends and Innovation: AI has significantly enhanced autonomous navigation, target recognition, and "on-platform" decision-making in unmanned technology. Swarm technology has also become a technological capability by providing multiple unmanned platforms to operate collaboratively during missions to extend communication, vision and recognition, and platform resilience. 
+
+> "Military drones are transforming modern warfare by providing surveillance, reconnaissance, and combat capabilities with enhanced precision." 
+
+There has been a significant shift in modern warfare using unmanned platforms, such that a new business vertical has been developed providing counter UAV/UAS capabilities. As with any technology, especially one developed for operational military missions and counter missions, advancements in UAV stealth and enhanced extended endurance (flight time) expand the combatant commander's operational "bubble" with UAV/UAS flying farther, weighing less, costing less, using Commercial/Government Off the Shelf (COTS/GOTS), and the integration of line-of-sight communication as well as cellular integration such as 5G.
 
 * Competitors:
 	- Anduril Industries: Specializes in autonomous systems and AI-driven defense technologies.
